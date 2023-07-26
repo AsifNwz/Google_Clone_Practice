@@ -1,0 +1,53 @@
+.Homepage{
+  text-align: center;
+}
+
+.glogo{
+
+  margin-top: 67px;
+  margin-bottom: 10px;
+  width: 272px;
+  
+  
+}
+
+.Search{
+  width: 550px;
+  border-radius: 20px;
+  border-width: thin;
+  border-color: rgb(206, 219, 230);
+  border-style: solid;
+  outline: 0;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  padding-left: 15px;
+  font-size: 17px;
+  margin-bottom: 13px;
+
+}
+
+.Search:hover{
+  box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.15);
+}
+
+.SearchButton{
+  background-color: #f8f9fa;
+  font-family: arial,sans-serif;
+  font-size: 14px;
+  border: 0;
+  border-radius: 4px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-right: 4px;
+  margin-left: 4px;
+  cursor: pointer;
+}
+
+.Languages{
+color: blue;
+font-size: 13px;
+word-spacing: 5px;
+cursor: pointer;
+}
